@@ -1,5 +1,5 @@
 # Web-Crawler-In-Python-With-Beautiful-Soup
-This is a crawler that will scrape all the quotes of the website and store it into excel file
+This is a crawler that will scrape all the quotes and its contents of the website and store it into excel file
 
 <strong>Use-Case:</strong>
 A company has approached you that wants to scrape data from the website. The task is to provide them with the crawler that should be able to scrape data, After the scrapping is done, Store the result in excel file.
@@ -13,4 +13,4 @@ A company has approached you that wants to scrape data from the website. The tas
 * scrape.py is the execution file
 
 <strong>License:</strong>
-*MIT © Ahmad Idrees
+*MIT © [Ahmad Idrees](https://github.com/mahmad321git/Web-Crawler-In-Python-With-Beautiful-Soup/blob/main/LICENSE)
