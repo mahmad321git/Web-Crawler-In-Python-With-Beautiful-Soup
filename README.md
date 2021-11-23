@@ -13,3 +13,4 @@ Run:
 * scrape.py is the execution file
 
 Frameworks & Technologies:
+https://user-images.githubusercontent.com/35655048/103159624-6313df00-47ed-11eb-9b4e-194a33a50e10.PNG
